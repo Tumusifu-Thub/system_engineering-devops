@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Trap SIGTERM and handle it with a custom function
 trap 'echo "I am invincible!!!"' SIGTERM
