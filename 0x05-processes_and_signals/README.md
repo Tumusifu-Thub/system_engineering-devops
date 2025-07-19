@@ -1,1 +1,1 @@
-project done
+read me for processes and signals
